@@ -8,13 +8,11 @@ public class FirstProgram {
 	}
 	
 	private void employeeid() {
-		// TODO Auto-generated method stub
 		System.out.println("The employee id is:1728");
 
 	}
 	
 	private void employeeaddress() {
-		// TODO Auto-generated method stub
 		System.out.println("The employee address is:chennai");
 
 	}
@@ -25,7 +23,6 @@ public class FirstProgram {
 		prog.employeedetails();
 		prog.employeeid();
 		prog.employeeaddress();
-		// TODO Auto-generated method stub
 
 	}
 
