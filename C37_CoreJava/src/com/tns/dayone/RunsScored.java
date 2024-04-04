@@ -46,11 +46,12 @@ public class RunsScored {
 		ra.setRuns(183);
 		System.out.println(ra);
 		
-		//System.out.println(ra.getName());
-		///System.out.println(ra.getAge());
-		//System.out.println(ra.getRuns());	
+		/*System.out.println(ra.getName());
+		System.out.println(ra.getAge());
+		System.out.println(ra.getRuns());*/	
 		
 		
 	}
 
+	
 }
