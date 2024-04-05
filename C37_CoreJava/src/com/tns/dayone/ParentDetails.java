@@ -16,5 +16,6 @@ public class ParentDetails extends GreatGrandParent{
 		par.assestParent();
 		par.valueGrand();
 		par.weekEnd();
+		
 	}
 }
